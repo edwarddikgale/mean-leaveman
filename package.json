@@ -1,0 +1,23 @@
+{
+  "name": "NodeApi",
+  "main": "server.js",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "~4.16.2",
+    "express-validation": "^1.0.2",
+    "express-winston": "^2.4.0",
+    "helmet": "^3.10.0",
+    "http-status": "^1.0.1",
+    "joi": "^13.1.1",
+    "method-override": "^2.3.10",
+    "mongoose": "~4.13.9",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "winston": "^2.4.0"
+  }
+}
